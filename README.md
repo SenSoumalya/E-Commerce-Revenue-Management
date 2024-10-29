@@ -1,3 +1,5 @@
+![0000](https://github.com/SenSoumalya/E-Commerce-Revenue-Management/blob/main/1.jpg)
+
 # E-Commerce Revenue Management
 ## Course: Python for Data Science
 
